@@ -1,0 +1,20 @@
+(head
+    (title "Charlotte's web(site)")
+)
+
+(body
+    (import "./index.css")
+    (header
+        (div
+            (h1 "Welcome to Charlotte's Web(site)!")
+            (p "I'm a massive nerd lol, I've written this websie in Memel. A new language for web development")
+            (p
+                (a href="https://twitter.com/GodUnix" "My Twitter") " • "
+                (a href="https://discord.gg/p7VetmM5dg" "MEML Discord") " • "
+                (a href="https://meml.fivnex.co" "MEML Website") " • "
+                (a href="https://link.fivnex.co/join" "Fivnex discord") " • "
+                (a href="https://fivnex.co" "Fivnex Website")
+            )
+        )
+    )
+)
